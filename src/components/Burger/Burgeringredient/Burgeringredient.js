@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 import PropTypes from 'prop-types'
 
-import classes from 'Burgeringredient.css';
+import classes from './Burgeringredient.css';
 
 class BurgerIngredient extends Component {
     render() {
