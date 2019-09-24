@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd15b826-ec7c-492c-9188-ffd2d0182bac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
@@ -47,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569140706458</updated>
-      <workItem from="1569140715938" duration="29853000" />
+      <workItem from="1569140715938" duration="30284000" />
     </task>
     <servers />
   </component>
